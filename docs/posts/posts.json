@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-09-08T13:39:46-04:00",
     "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/9.8.21_first test/",
+    "title": "This is my first official test post",
+    "description": "I am testing out this feature to ensure I am able to successfully post a blog.",
+    "author": [
+      {
+        "name": "Liz Weglarz",
+        "url": "https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/"
+      }
+    ],
+    "date": "2021-09-08",
+    "categories": [],
+    "contents": "\nThis is my second blog post.\nTest header 1\nTest header 2\nTesting out how to:\nNumber list\nBullet list\nand insert links https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-08T13:47:06-04:00",
+    "input_file": "additional-first-test.knit.md"
   }
 ]

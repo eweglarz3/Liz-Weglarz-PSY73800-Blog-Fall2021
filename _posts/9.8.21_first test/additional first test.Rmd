@@ -1,0 +1,38 @@
+---
+title: "This is my first official test post"
+description: |
+  I am testing out this feature to ensure I am able to successfully post a blog.
+author:
+  - name: Liz Weglarz
+    url: https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/
+    affiliation: Baruch College
+    affiliation_url: 
+date: 09-08-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+This is my second blog post. 
+
+# Test header 1 
+
+## Test header 2 
+
+Testing out how to:
+
+1. Number list 
+
+- Bullet list 
+
+and insert links <https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/>
+
+
