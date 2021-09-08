@@ -1,0 +1,25 @@
+---
+title: "Test Blog Post 1"
+description: |
+  This is a trial post for PSY73800
+author:
+  - name: Liz Weglarz
+    url: https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/
+    affiliation: PSY 73800
+    affiliation_url: https://example.com/spacelysprokets
+date: 09-08-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+

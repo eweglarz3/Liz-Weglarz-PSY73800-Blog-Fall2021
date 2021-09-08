@@ -6,14 +6,28 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-08T10:53:05-04:00"
+      "last_modified": "2021-09-08T11:18:10-04:00"
     },
     {
       "path": "index.html",
       "title": "Liz Weglarz | PSY 73800 | Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-08T10:53:05-04:00"
+      "last_modified": "2021-09-08T11:18:10-04:00"
+    },
+    {
+      "path": "welcome.html",
+      "title": "First Test Blog Post",
+      "description": "This is my first test blog post. \n",
+      "author": [
+        {
+          "name": "Liz Weglarz",
+          "url": "https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/"
+        }
+      ],
+      "date": "09-08-2021",
+      "contents": "\nThis is my first blog post.\nTest header 1\nTest header 2\nTesting out how to:\nNumber list\nBullet list\nand insert links https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/\n\n\n\n",
+      "last_modified": "2021-09-08T13:26:05-04:00"
     }
   ],
   "collections": ["posts/posts.json"]
