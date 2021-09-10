@@ -7,7 +7,7 @@ author:
     url: https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/
     affiliation: Baruch College
     affiliation_url: 
-date: 09-08-2021
+date: 09-10-2021
 output:
   distill::distill_article:
     self_contained: false
