@@ -1,0 +1,90 @@
+---
+title: "Module 2 Blog Post: Project Brainstorm"
+description: |
+  Includes an initial brainstorm of what I hope to do for my semester-long project, along with how I would approach the project and key timeline considerations
+author:
+  - name: Liz Weglarz
+    url: https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/
+    affiliation: Baruch College
+    affiliation_url: 
+date: 09-17-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+# Module 2 Semester-Long Project Brainstorm
+
+At this time, my plan for the semester-long project is to write a textbook-style chapter that summarizes and reviews learning from a cognitive perspective. There are two specific reasons why I am interested in doing so. First, I currently teach an undergraduate course, Psychology of Motivation and Learning. I quite like the materials and textbook with respect to the motivational concepts I teach, but I am less satisfied with the materials that I have used for the learning concepts. So, I hope to ultimately use this textbook-style chapter for teaching, both in terms of preparing a lecture and even assigning reading for my students. Second, as an I/O psychologist in training, I hope to be able to use learning concepts in my applied work such as designing adult development programs in organizations and providing coaching to organizational members. My experience has been that the best way to learn is to teach, so my hope is that writing this chapter will help me to better grasp the concepts and share them with others. 
+
+Below, I’ve begun to map out what I’d like to achieve, how I’d like to do it, and the timeline in which I will get it done. 
+
+
+## What I’d Like to Achieve with this Project: 
+
+- Write a textbook-style chapter about human learning that would take students around 30 minutes to read 
+
+- Take complex concepts about learning and explain them in digestible ways (e.g., undergraduate reading level)
+
+- Include historically relevant concepts, and discuss the evolution of such understanding 
+
+- Provide real-life practical examples (i.e., experiments, or narrative accounts) of the learning concepts that I discuss, including suggested exercises to enliven the concepts and make them easier to digest  
+
+- Roughly, cover the following:
+
+  - What is learning? 
+
+  - How learning relates to other instances of cognition 
+
+  - Theories of learning 
+
+  - Evolution of learning 
+
+  - Key processes of learning 
+
+  - Examples of learning processes in real-life 
+
+  - Determinants and outcomes of learning (individually, socially) 
+
+  - Future directions of study 
+
+
+## How I will gather resources necessary to complete the project:
+
+- Project plan before starting so that I allocate what I need 
+
+- Use open-source materials on learning to get an understanding of different ways that I can structure my textbook chapter 
+
+- Leverage the learning section of the class to finalize what concepts that I would like to include
+
+- Use literature search to identify other key concepts to include in the chapter 
+
+
+## When I will get the project done:
+
+- Late September to mid-October: Draft Project Proposal and Outline Key Components 
+  - Use open source materials to inform overall structure of chapter
+  - Determine which learning concepts to include (finalize following learning section of course) to inform plan for literature review 
+  - Figure out exercises 
+  - Create initial outline of chapter 
+- Late October to mid-November: 
+  - Conduct detailed literature 
+  - Create final outline of chapter 
+  - Begin writing chapter 
+- Late-November to mid-December: 
+  - Finish writing chapter 
+  - Add in figures, tables, etc. 
+
+
+Depending on how my literature search and exploration of the topic goes, some of the plans above are subject to change before my proposal. 
+
+
