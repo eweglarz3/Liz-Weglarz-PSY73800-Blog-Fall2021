@@ -1,0 +1,67 @@
+---
+title: "Midterm Bibliography"
+description: |
+  Includes a list of references for my final written paper that will will a textbook-style chapter about human learning. 
+author:
+  - name: Liz Weglarz
+    url: https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/
+    affiliation: Baruch College
+    affiliation_url: 
+date: 10-22-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+# Midterm Bibliography
+
+
+Bower, G. H., & Clark, M. C. (1969). Narrative stories as mediators for serial learning. Psychonomic Science, 14(4), 181–182. <https://doi.org/10.3758/BF03332778>
+
+
+Dempster, F. N. (1996). Chapter 9—Distributing and Managing the Conditions of Encoding and Practice. In E. L. Bjork & R. A. Bjork (Eds.), Memory (pp. 317–344). Academic Press. <https://doi.org/10.1016/B978-012102570-0/50011-2>
+
+
+Dickinson, A., & Balleine, B. (2002). The role of learning in the operation of motivational systems. In Steven’s handbook of experimental psychology: Learning, motivation, and emotion, Vol. 3, 3rd ed (pp. 497–533). John Wiley & Sons Inc.
+
+
+Grillon, C. (2002). Associative learning deficits increase symptoms of anxiety in humans. Biological Psychiatry, 51(11), 851–858. <https://doi.org/10.1016/S0006-3223(01)01370-1>
+
+
+Howard, R. W. (1999). Reconceptualizing Learning. Review of General Psychology, 3(4), 251–263. <https://doi.org/10.1037/1089-2680.3.4.251>
+
+
+Mitchell, C. J., Houwer, J. D., & Lovibond, P. F. (2009). The propositional nature of human associative learning. Behavioral and Brain Sciences, 32(2), 183–198. <https://doi.org/10.1017/S0140525X09000855>
+
+
+Payne, J. W., Bettman, J. R., & Johnson, E. J. (1988). Adaptive strategy selection in decision making. Journal of Experimental Psychology: Learning, Memory, and Cognition, 14(3), 534–552. <https://doi.org/10.1037/0278-7393.14.3.534>
+
+
+Pineño, O., & Miller, R. R. (2007). Comparing associative, statistical, and inferential reasoning accounts of human contingency learning. Quarterly Journal of Experimental Psychology, 60(3), 310–329. <https://doi.org/10.1080/17470210601000680>
+
+
+Poulson, C. L. (1983). Differential reinforcement of other-than-vocalization as a control procedure in the conditioning of infant vocalization rate. Journal of Experimental Child Psychology, 36(3), 471–489. <https://doi.org/10.1016/0022-0965(83)90047-4>
+
+
+Sachs, J. S. (1967). Recognition memory for syntactic and semantic aspects of connected discourse. Perception & Psychophysics, 2(9), 437–442. <https://doi.org/10.3758/BF03208784>
+
+
+Seligman, M. E. (1970). On the generality of the laws of learning. Psychological Review, 77(5), 406–418. <https://doi.org/10.1037/h0029790>
+
+
+Young, R. K. (1985). Ebbinghaus: Some consequences. Journal of Experimental Psychology: Learning, Memory, and Cognition, 11(3), 491–495. <https://doi.org/10.1037/0278-7393.11.3.491>
+
+
+
+
+
+
