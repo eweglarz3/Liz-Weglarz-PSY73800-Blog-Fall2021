@@ -17,6 +17,23 @@
     "input_file": "Midterm-Bib.knit.md"
   },
   {
+    "path": "posts/MidtermProposal/",
+    "title": "Midterm Proposal",
+    "description": "Describes my proposed plan for the final paper assignment for PSYC 73800 which consists of a textbook-style chapter about human learning and covers cognitive knowledge acquisition and retention processes.",
+    "author": [
+      {
+        "name": "Liz Weglarz",
+        "url": "https://eweglarz3.github.io/Liz-Weglarz-PSY73800-Blog-Fall2021/"
+      }
+    ],
+    "date": "2021-10-22",
+    "categories": [],
+    "contents": "\nMidterm Proposal\nFor my semester-long project, I plan to write a textbook-style chapter about the cognitive aspects of human learning targeted for an undergraduate population. My goal for this project is to introduce the cognitive perspective of the acquisition of knowledge and the retention of such knowledge, the interrelatedness of these processes, and finally, discuss how both have relevant application to humans’ daily experiences.\nI plan to begin the chapter by discussing how learning is broadly defined and how it relates to cognition. In doing so, I will reference key cognitive processes that I thereafter discuss in the chapter including learning acquisition theories such as associative learning and retention of learning concepts such as memory. Before I go into more about these key concepts, I will conclude the introduction by discussing some of the underlying assumptions about learning to contextualize the remainder of the chapter.\nThe first section of the chapter involves the acquisition of knowledge, and thus covers cognitive perspectives of learning. To start, I will briefly introduce associative learning and how it differs from other types of non-associative learning. Then, I will write about classical conditioning and introduce Pavlov’s seminal work. I conclude the subsection by explicitly referencing how Pavlovian conditioning operates for humans and affects behavioral action. Then, I will discuss operant and instrumental conditioning in a second subsection of associative learning. I will spend most of this subsection discussing concepts such as reinforcement and punishment. I will conclude the associative learning section by discussing applications of operant conditioning in real-life scenarios. This will conclude the section on cognitive learning acquisition processes.\nThe second section involves the retention of knowledge and thus will cover various memory concepts related to knowledge encoding, storage, and retrieval. To start, I will discuss knowledge encoding and highlight the reciprocal connection to associative learning processes. Then, I will briefly touch upon the storage of memory. Finally, I will discuss key retrieval processes. For each stage, I will share tangible examples of studies that illustrate these processes and will conclude by also highlighting how memory underlies knowledge acquisition processes.\nFinally, I will conclude the chapter with considerations about learning and reference individual differences and social influences that affect knowledge acquisition and retention processes. I plan to also indicate a few key future directions to expand the study of learning so that students may be interested and inspired about opportunities for studying learning.\nThough my proposed chapter includes a multitude of topics, it is intended to be an overview, and so I plan to use tables and figures to dive deeper into seminal studies and key concepts to each of the main topics that I will not necessarily discuss in the write-up. For example, when discussing reinforcement, I will reference a table that will summarize the various types of reinforcement. Thus, I hope that the final product is a chapter that introduces complex cognitive concepts of learning in a digestible and practical way, so that readers can understand the pervasive and importance of learning to human functioning.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-10-22T09:44:01-04:00",
+    "input_file": "MidtermProposal.knit.md"
+  },
+  {
     "path": "posts/module2/",
     "title": "Module 2 Blog Post: Project Brainstorm",
     "description": "Includes an initial brainstorm of what I hope to do for my semester-long project, along with how I would approach the project and key timeline considerations",
